@@ -7,3 +7,10 @@
 00000060: f39d 5dda ba50 f203 7a8b a319 ac32 12ae  ..]..P..z....2..
 00000070: 12a5 14a7 3db7 1cff 0e88 d70d 1c11 84b2  ....=...........
 00000080: 73dc f9e8 3289 1f58 2a3f 76              s...2..X*?v
+
+
+# contents
+
+* titles.md: The movie titles in the WebFlyx collection
+* classics.csv: A comma-separated list of classic movies
+* quotes: A directory of files containing memorable quotes from movies
